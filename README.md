@@ -1,1 +1,2 @@
-# XML-JSON
+Este repositorio consiste en un proyecto creado en la asignatura de lenguaje de marcas del ciclo superior de desarrollo de aplicaciones multiplataforma en el que tenia que guardar datos de unos Pokémon utilizando XML y JSON.
+En el proyecto hay un archivo XML donde se guardan datos de pokémon, un archivo JSON donde se guardan datos de otro Pokémon, un archivo DTD que comprueba que el archivo XML esta en el formato deseado y una carpeta donde se guardan las imagenes de los Pokémon.
