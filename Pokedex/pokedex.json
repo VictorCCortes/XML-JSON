@@ -1,0 +1,234 @@
+[
+    {
+        "nom": "Nidoran♂",
+        "numero": 32,
+        "tipus": "Veneno",
+        "foto": "imatges/NidoranM.webp",
+        "evolucio": {
+            "nom": "Nidorino",
+            "numero": 33
+        },
+        "moviments": {
+            "moviments_normals": ["Picotazo", "Picotazo veneno"],
+            "moviments_especials": ["Bomba lodo", "Golpe cuerpo", "Cornada", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Nidorino",
+        "numero": 33,
+        "tipus": "Veneno",
+        "foto": "imatges/Nidorino.webp",
+        "preevolucio": {
+            "nom": "Nidoran♂",
+            "numero": 32
+        },
+        "evolucio": {
+            "nom": "Nidoking",
+            "numero": 34
+        },
+        "moviments": {
+            "moviments_normals": ["Puya nociva", "Picotazo veneno"],
+            "moviments_especials": ["Bomba lodo", "Cornada", "Excavar", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Nidoking",
+        "numero": 34,
+        "tipus": ["Veneno", "Tierra"],
+        "foto": "imatges/Nidoking.webp",
+        "preevolucio": {
+            "nom": "Nidorino",
+            "numero": 33
+        },
+        "moviments": {
+            "moviments_normals": ["Cola férrea", "Puya nociva", "Corte furia"],
+            "moviments_especials": ["Megacuerno", "Onda tóxica", "Terremoto", "Tierra viva", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Clefairy",
+        "numero": 35,
+        "tipus": "Hada",
+        "foto": "imatges/Clefairy.webp",
+        "evolucio": {
+            "nom": "Clefable",
+            "numero": 36
+        },
+        "moviments": {
+            "moviments_normals": ["Cabezazo zen", "Destructor"],
+            "moviments_especials": ["Fuerza lunar", "Golpe cuerpo", "Voz cautivadora"]
+        }
+    },
+    {
+        "nom": "Clefable",
+        "numero": 36,
+        "tipus": "Veneno",
+        "foto": "imatges/Clefable.webp",
+        "preevolucio": {
+            "nom": "Clefairy",
+            "numero": 35
+        },
+        "moviments": {
+            "moviments_normals": ["Cabezazo zen", "Rayo carga", "Encanto", "Destructor"],
+            "moviments_especials": ["Brillo mágico", "Fuerza lunar", "Psíquico", "Puño meteoro"]
+        }
+    },
+    {
+        "nom": "Vulpix",
+        "numero": 37,
+        "tipus": "Fuego",
+        "foto": "imatges/Vulpix.webp",
+        "evolucio": {
+            "nom": "Ninetales",
+            "numero": 38
+        },
+        "moviments": {
+            "moviments_normals": ["Ascuas", "Ataque rápido"],
+            "moviments_especials": ["Golpe cuerpo", "Lanzallamas", "Nitrocarga", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Ninetales",
+        "numero": 38,
+        "tipus": "Fuego",
+        "foto": "imatges/Ninetales.webp",
+        "preevolucio": {
+            "nom": "Vulpix",
+            "numero": 37
+        },
+        "moviments": {
+            "moviments_normals": ["Finta", "Giro fuego", "Ascuas"],
+            "moviments_especials": ["onda ígnea", "Rayo solar", "Psicocarga", "Lanzallamas", "Llamarada", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Jigglypuff",
+        "numero": 39,
+        "tipus": ["Normal", "Hada"],
+        "foto": "imatges/Jigglypuff.webp",
+        "evolucio": {
+            "nom": "Wigglytuff",
+            "numero": 40
+        },
+        "moviments": {
+            "moviments_normals": ["Destructor", "Finta"],
+            "moviments_especials": ["Brillo mágico", "Giro bola", "Voz cautivadora", "Carantoña", "Golpe cuerpo"]
+        }
+    },
+    {
+        "nom": "Wigglytuff",
+        "numero": 40,
+        "tipus": ["Normal", "Hada"],
+        "foto": "imatges/Wigglytuff.webp",
+        "preevolucio": {
+            "nom": "Jigglypuff",
+            "numero": 39
+        },
+        "moviments": {
+            "moviments_normals": ["Finta", "Destructor", "Encanto"],
+            "moviments_especials": ["Brillo mágico", "Hyperrayo", "Carantoña", "Rayo hielo"]
+        }
+    },
+    {
+        "nom": "Zubat",
+        "numero": 41,
+        "tipus": ["Veneno", "Volador"],
+        "foto": "imatges/Zubat.webp",
+        "evolucio": {
+            "nom": "Golbat",
+            "numero": 42
+        },
+        "moviments": {
+            "moviments_normals": ["Ataque rápido", "Mordisco"],
+            "moviments_especials": ["Aire afilado", "Colmillo veneno", "Rapidez", "Bomba lodo", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Golbat",
+        "numero": 42,
+        "tipus": ["Veneno", "Volador"],
+        "foto": "imatges/Golbat.webp",
+        "preevolucio": {
+            "nom": "Zubat",
+            "numero": 41
+        },
+        "moviments": {
+            "moviments_normals": ["Ataque ala", "Mordisco"],
+            "moviments_especials": ["Aire afilado", "Bola sombra", "Colmillo veneno", "Viento aciago", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Oddish",
+        "numero": 43,
+        "tipus": ["Planta", "Veneno"],
+        "foto": "imatges/Oddish.webp",
+        "evolucio": {
+            "nom": "Gloom",
+            "numero": 44
+        },
+        "moviments": {
+            "moviments_normals": ["Hoja afilada", "Ácido"],
+            "moviments_especials": ["Fuerza lunar", "Bomba lodo", "Bomba germen", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Gloom",
+        "numero": 44,
+        "tipus": ["Planta", "Veneno"],
+        "foto": "imatges/Gloom.webp",
+        "preevolucio": {
+            "nom": "Oddish",
+            "numero": 43
+        },
+        "evolucio": {
+            "nom": "Vileplume",
+            "numero": 45
+        },
+        "moviments": {
+            "moviments_normals": ["Ácido", "Hoja afilada"],
+            "moviments_especials": ["Bomba lodo", "Fuerza lunar", "Tormenta floral", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Vileplume",
+        "numero": 45,
+        "tipus": ["Planta", "Veneno"],
+        "foto": "imatges/Vileplume.webp",
+        "preevolucio": {
+            "nom": "Gloom",
+            "numero": 44
+        },
+        "moviments": {
+            "moviments_normals": ["Ácido", "Hoja afilada"],
+            "moviments_especials": ["Fuerza lunar", "Tormenta floral", "Rayo solar", "Bomba lodo", "Retribución", "Frustración"]
+        }
+    },
+    {
+        "nom": "Paras",
+        "numero": 46,
+        "tipus": ["Bicho", "Planta"],
+        "foto": "imatges/Paras.webp",
+        "evolucio": {
+            "nom": "Parasect",
+            "numero": 47
+        },
+        "moviments": {
+            "moviments_normals": ["Arañazo", "Picadura"],
+            "moviments_especials": ["Bomba germen", "Tijera X", "Veneno X"]
+        }
+    },
+    {
+        "nom": "Parasect",
+        "numero": 47,
+        "tipus": ["Bicho", "Planta"],
+        "foto": "imatges/Parasect.webp",
+        "preevolucio": {
+            "nom": "Paras",
+            "numero": 46
+        },
+        "moviments": {
+            "moviments_normals": ["Corte furia", "Estoicismo", "Picadura"],
+            "moviments_especials": ["Rayo solar", "Tijera X", "Veneno X"]
+        } 
+    }
+]

@@ -1,0 +1,16 @@
+<!ELEMENT pokedex (pokemon+)>
+<!ELEMENT pokemon (nom, tipus, foto, preevolucio?, evolucio?, moviments)>
+<!ATTLIST pokemon numero CDATA #REQUIRED>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT tipus (nom_tipus+)>
+<!ELEMENT nom_tipus (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT preevolucio (#PCDATA)>
+<!ATTLIST preevolucio numero CDATA #REQUIRED>
+<!ELEMENT evolucio (#PCDATA)>
+<!ATTLIST evolucio numero CDATA #REQUIRED>
+<!ELEMENT moviments (moviments_normals, moviments_especials)>
+<!ELEMENT moviments_normals (moviment_normal+)>
+<!ELEMENT moviment_normal (#PCDATA)>
+<!ELEMENT moviments_especials (moviment_especial+)>
+<!ELEMENT moviment_especial (#PCDATA)>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pokedex SYSTEM "pokedex.dtd">
+
+<pokedex>
+    <pokemon numero="16">
+        <nom>Pidgey</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+            <nom_tipus>Volador</nom_tipus>
+        </tipus>
+        <foto>imatges/Pidgey.webp</foto>
+        <evolucio numero="17">Pidgeotto</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Placaje</moviment_normal>
+                <moviment_normal>Ataque rápido</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Aire afilado</moviment_especial>
+                <moviment_especial>Golpe aéreo</moviment_especial>
+                <moviment_especial>Ciclón</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="17">
+        <nom>Pidgeotto</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+            <nom_tipus>Volador</nom_tipus>
+        </tipus>
+        <foto>imatges/Pidgeotto.webp</foto>
+        <preevolucio numero="16">Pidgey</preevolucio>
+        <evolucio numero="18">Pidgeot</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ala de acero</moviment_normal>
+                <moviment_normal>Ataque ala</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Aire afilado</moviment_especial>
+                <moviment_especial>Golpe aéreo</moviment_especial>
+                <moviment_especial>Ciclón</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="18">
+        <nom>Pidgeot</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+            <nom_tipus>Volador</nom_tipus>
+        </tipus>
+        <foto>imatges/Pidgeot.webp</foto>
+        <preevolucio numero="17">Pidgeotto</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ala de acero</moviment_normal>
+                <moviment_normal>Tajo aéreo</moviment_normal>
+                <moviment_normal>Ataque ala</moviment_normal>
+                <moviment_normal>tornado</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Golpe aéreo</moviment_especial>
+                <moviment_especial>Pájaro osado</moviment_especial>
+                <moviment_especial>Vendaval</moviment_especial>
+                <moviment_especial>Aire afilado</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="19">
+        <nom>Rattata</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+        </tipus>
+        <foto>imatges/Rattata.webp</foto>
+        <evolucio numero="20">Raticate</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Placaje</moviment_normal>
+                <moviment_normal>Ataque rápido</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Golpe cuerpo</moviment_especial>
+                <moviment_especial>Excavar</moviment_especial>
+                <moviment_especial>Hipercolmillo</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="20">
+        <nom>Raticate</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+        </tipus>
+        <foto>imatges/Raticate.webp</foto>
+        <preevolucio numero="19">Rattata</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ataque rápido</moviment_normal>
+                <moviment_normal>Mordisco</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Hiperrayo</moviment_especial>
+                <moviment_especial>Excavar</moviment_especial>
+                <moviment_especial>Hipercolmillo</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="21">
+        <nom>Spearow</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+            <nom_tipus>Volador</nom_tipus>
+        </tipus>
+        <foto>imatges/Spearow.webp</foto>
+        <evolucio numero="22">Fearow</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ataque rápido</moviment_normal>
+                <moviment_normal>Picotazo</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Ataque aéreo</moviment_especial>
+                <moviment_especial>Pico taladro</moviment_especial>
+                <moviment_especial>Golpe aéreo</moviment_especial>
+                <moviment_especial>Ciclón</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="22">
+        <nom>Fearow</nom>
+        <tipus>
+            <nom_tipus>Normal</nom_tipus>
+            <nom_tipus>Volador</nom_tipus>
+        </tipus>
+        <foto>imatges/Fearow.webp</foto>
+        <preevolucio numero="21">Spearow</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ala de acero</moviment_normal>
+                <moviment_normal>Picotazo</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Ataque aéreo</moviment_especial>
+                <moviment_especial>Golpe aéreo</moviment_especial>
+                <moviment_especial>Taladradora</moviment_especial>
+                <moviment_especial>Ciclón</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="23">
+        <nom>Ekans</nom>
+        <tipus>
+            <nom_tipus>Veneno</nom_tipus>
+        </tipus>
+        <foto>imatges/Ekans.webp</foto>
+        <evolucio numero="24">Arbok</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ácido</moviment_normal>
+                <moviment_normal>Picotazo veneno</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Bomba lodo</moviment_especial>
+                <moviment_especial>Colmillo veneno</moviment_especial>
+                <moviment_especial>Constricción</moviment_especial>
+                <moviment_especial>Lanza mugre</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="24">
+        <nom>Arbok</nom>
+        <tipus>
+            <nom_tipus>Veneno</nom_tipus>
+        </tipus>
+        <foto>imatges/Arbok.webp</foto>
+        <preevolucio numero="23">Ekans</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ácido</moviment_normal>
+                <moviment_normal>Mordisco</moviment_normal>
+                <moviment_normal>Cola dragón</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Lanza mugre</moviment_especial>
+                <moviment_especial>Onda tóxica</moviment_especial>
+                <moviment_especial>Pulso umbrío</moviment_especial>
+                <moviment_especial>Bomba ácida</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="25">
+        <nom>Pikachu</nom>
+        <tipus>
+            <nom_tipus>Eléctrico</nom_tipus>
+        </tipus>
+        <foto>imatges/Pikachu.webp</foto>
+        <evolucio numero="26">Raichu</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Ataque rápido</moviment_normal>
+                <moviment_normal>Impactrueno</moviment_normal>
+                <moviment_normal>Presente</moviment_normal>
+                <moviment_normal>Encanto</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Chispazo</moviment_especial>
+                <moviment_especial>Rayo</moviment_especial>
+                <moviment_especial>Voltio cruel</moviment_especial>
+                <moviment_especial>Surf</moviment_especial>
+                <moviment_especial>Trueno</moviment_especial>
+                <moviment_especial>Plancha voladora</moviment_especial>
+                <moviment_especial>Puño trueno</moviment_especial>
+                <moviment_especial>Carantoña</moviment_especial>
+                <moviment_especial>Vuelo</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="26">
+        <nom>Raichu</nom>
+        <tipus>
+            <nom_tipus>Eléctrico</nom_tipus>
+        </tipus>
+        <foto>imatges/Raichu.webp</foto>
+        <preevolucio numero="25">Pikachu</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Chispa</moviment_normal>
+                <moviment_normal>Voltiocambio</moviment_normal>
+                <moviment_normal>Imnpactrueno</moviment_normal>
+                <moviment_normal>Encanto</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Demolición</moviment_especial>
+                <moviment_especial>Puño trueno</moviment_especial>
+                <moviment_especial>Voltio cruel</moviment_especial>
+                <moviment_especial>Cabezazo</moviment_especial>
+                <moviment_especial>Trueno</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="27">
+        <nom>Sanshrew</nom>
+        <tipus>
+            <nom_tipus>Tierra</nom_tipus>
+        </tipus>
+        <foto>imatges/Sandshrew.webp</foto>
+        <evolucio numero="28">Sandslash</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Arañazo</moviment_normal>
+                <moviment_normal>Disparo lodo</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Avalancha</moviment_especial>
+                <moviment_especial>Bucle arena</moviment_especial>
+                <moviment_especial>Excavar</moviment_especial>
+                <moviment_especial>Tumba rocas</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="28">
+        <nom>Sandslash</nom>
+        <tipus>
+            <nom_tipus>Tierra</nom_tipus>
+        </tipus>
+        <foto>imatges/Sandslash.webp</foto>
+        <preevolucio numero="27">Sanshrew</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Disparo lodo</moviment_normal>
+                <moviment_normal>garra metal</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Terremoto</moviment_especial>
+                <moviment_especial>Terratemblor</moviment_especial>
+                <moviment_especial>Tumba rocas</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="29">
+        <nom>Nidoran♀</nom>
+        <tipus>
+            <nom_tipus>Veneno</nom_tipus>
+        </tipus>
+        <foto>imatges/NidoranF.webp</foto>
+        <evolucio numero="30">Nidorina</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Mordisco</moviment_normal>
+                <moviment_normal>Picotazo veneno</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Golpe cuerpo</moviment_especial>
+                <moviment_especial>Bomba lodo</moviment_especial>
+                <moviment_especial>Colmillo veneno</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="30">
+        <nom>Nidorina</nom>
+        <tipus>
+            <nom_tipus>Veneno</nom_tipus>
+        </tipus>
+        <foto>imatges/Nidorina.webp</foto>
+        <preevolucio numero="29">Nidoran♀</preevolucio>
+        <evolucio numero="31">Nidoqueen</evolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Mordisco</moviment_normal>
+                <moviment_normal>Picotazo veneno</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Excavar</moviment_especial>
+                <moviment_especial>Colmillo veneno</moviment_especial>
+                <moviment_especial>Bomba lodo</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+    <pokemon numero="31">
+        <nom>Nidoqueen</nom>
+        <tipus>
+            <nom_tipus>Veneno</nom_tipus>
+            <nom_tipus>Tierra</nom_tipus>
+        </tipus>
+        <foto>imatges/Nidoqueen.webp</foto>
+        <preevolucio numero="30">Nidorina</preevolucio>
+        <moviments>
+            <moviments_normals>
+                <moviment_normal>Mordisco</moviment_normal>
+                <moviment_normal>Puya nociva</moviment_normal>
+            </moviments_normals>
+            <moviments_especials>
+                <moviment_especial>Terremoto</moviment_especial>
+                <moviment_especial>onda tóxica</moviment_especial>
+                <moviment_especial>Roca afilada</moviment_especial>
+                <moviment_especial>Tierra viva</moviment_especial>
+                <moviment_especial>Retribución</moviment_especial>
+                <moviment_especial>Frustración</moviment_especial>
+            </moviments_especials>
+        </moviments>
+    </pokemon>
+</pokedex>
